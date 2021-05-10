@@ -33,7 +33,7 @@ public class DemonThread extends Thread {
 		{
 		System.out.println("main method running  :: "+i);	
 		}
-		//t.start();
+		t.start();
 		
 		}//main
 	}//class
